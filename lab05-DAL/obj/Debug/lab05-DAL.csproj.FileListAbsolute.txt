@@ -1,0 +1,12 @@
+D:\source\repos\lab05-GUI\lab05-DAL\bin\Debug\lab05-DAL.dll.config
+D:\source\repos\lab05-GUI\lab05-DAL\bin\Debug\lab05-DAL.dll
+D:\source\repos\lab05-GUI\lab05-DAL\bin\Debug\lab05-DAL.pdb
+D:\source\repos\lab05-GUI\lab05-DAL\bin\Debug\EntityFramework.dll
+D:\source\repos\lab05-GUI\lab05-DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\source\repos\lab05-GUI\lab05-DAL\bin\Debug\EntityFramework.xml
+D:\source\repos\lab05-GUI\lab05-DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\source\repos\lab05-GUI\lab05-DAL\obj\Debug\lab05-DAL.csproj.AssemblyReference.cache
+D:\source\repos\lab05-GUI\lab05-DAL\obj\Debug\lab05-DAL.csproj.CoreCompileInputs.cache
+D:\source\repos\lab05-GUI\lab05-DAL\obj\Debug\lab05-DAL.csproj.CopyComplete
+D:\source\repos\lab05-GUI\lab05-DAL\obj\Debug\lab05-DAL.dll
+D:\source\repos\lab05-GUI\lab05-DAL\obj\Debug\lab05-DAL.pdb
